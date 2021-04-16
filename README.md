@@ -5,7 +5,7 @@
 <!--<html><head></head><body></body></html>-->
 <html xmlns="http://www.w3.org/1999/xhtml" class="__noGmain g_html">
 <head>
-<title>谷战军课题组</title>
+<title>谢柑华课题组</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
